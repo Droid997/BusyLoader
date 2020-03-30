@@ -30,10 +30,10 @@ BusyLoader is a openUI5 custom control, If you dont like the traditional Busy In
 
 ### Screenshots
 #### Small
-![](screens/small.png?raw=true "Small")
+![](screens/small.PNG?raw=true "Small")
 
 #### Medium
-![](screens/medium.png?raw=true "Medium")
+![](screens/medium.PNG?raw=true "Medium")
 
 #### Large
-![](screens/large.png?raw=true "Large")
+![](screens/large.PNG?raw=true "Large")
