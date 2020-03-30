@@ -1,4 +1,4 @@
-# BusyLoader-SAP/OpenUI5 custom control
+# BusyLoader-SAP/OpenUI5 custom control 🔵
  Custom Busy Indicator which can be easily integered with openUI5
 
 BusyLoader is a openUI5 custom control, If you dont like the traditional Busy Indicatior which comes from the box this BusyLoader is what you are looking for.
@@ -30,10 +30,10 @@ BusyLoader is a openUI5 custom control, If you dont like the traditional Busy In
 
 ### Screenshots
 #### Small
-![](screens/small.PNG?raw=true "Small")
+![](screens/small.png?raw=true "Small")
 
 #### Medium
-![](screens/medium.PNG?raw=true "Medium")
+![](screens/medium.png?raw=true "Medium")
 
 #### Large
-![](screens/large.PNG?raw=true "Large")
+![](screens/large.png?raw=true "Large")
