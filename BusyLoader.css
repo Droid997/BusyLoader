@@ -1,0 +1,39 @@
+.customBusyLoader {
+  position: fixed;
+  display: none; 
+  width: 100%; 
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  z-index: 2;
+  cursor:wait;
+  }
+
+.customBusyLoaderVisible {
+  display: block; 
+  }
+
+.customBusyLoaderNotVisible {
+  display: none; 
+  }
+
+.customBusyLoader .spinner {
+  position: absolute;
+  top: inherit;
+  left: inherit;
+  right: inherit;
+  bottom: inherit;
+  margin:auto;
+  border-radius: 50%;
+  animation: spin 2s linear infinite;
+  
+}
+
+  
+ @keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+} 
