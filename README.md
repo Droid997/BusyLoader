@@ -7,14 +7,14 @@ BusyLoader is a openUI5 custom control, If you dont like the traditional Busy In
 - Place  `BusyLoader.js` and  `BusyLoader.css` inside `resources/sap/ui/core/`
 
 ### Properties
-|		Name		|		Type		|		Default		|
-|--------------------------------------------------|
+|Name|Type|Default|
+|----|----|----|
 |	visible		|	boolean		|	false	|
 |		size	|sap.ui.core.BusyIndicatorSize|Medium|
 |	speed	|	float	|	2	|
 
 ### Usage
-```````
+````
 <mvc:View
 	height="100%"
 	xmlns:mvc="sap.ui.core.mvc"
@@ -26,14 +26,14 @@ BusyLoader is a openUI5 custom control, If you dont like the traditional Busy In
 	
 	
 </mvc:View>
-`````
+````
 
 ### Screenshots
 #### Small
-![Alt text](screens/small.png?raw=true "Small")
+![](screens/small.png?raw=true "Small")
 
 #### Medium
-![Alt text](screens/medium.png?raw=true "Medium")
+![](screens/medium.png?raw=true "Medium")
 
 #### Large
-![Alt text](screens/large.png?raw=true "Large")
+![](screens/large.png?raw=true "Large")
